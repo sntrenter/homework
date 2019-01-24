@@ -1,6 +1,6 @@
 ﻿namespace trenter_a1
 {
-    partial class Form1
+    partial class classes
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(classes));
             this.aboutMe = new System.Windows.Forms.TextBox();
             this.selfPorterait = new System.Windows.Forms.PictureBox();
             this.exitButton = new System.Windows.Forms.Button();
+            this.classList = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.selfPorterait)).BeginInit();
             this.SuspendLayout();
             // 
@@ -64,15 +65,27 @@
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
-            // Form1
+            // classList
+            // 
+            this.classList.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.classList.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.classList.Location = new System.Drawing.Point(29, 269);
+            this.classList.Multiline = true;
+            this.classList.Name = "classList";
+            this.classList.Size = new System.Drawing.Size(369, 150);
+            this.classList.TabIndex = 4;
+            this.classList.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // classes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 519);
+            this.Controls.Add(this.classList);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.selfPorterait);
             this.Controls.Add(this.aboutMe);
-            this.Name = "Form1";
+            this.Name = "classes";
             this.Text = "Sam Trenter\'s Schedule";
             ((System.ComponentModel.ISupportInitialize)(this.selfPorterait)).EndInit();
             this.ResumeLayout(false);
@@ -85,6 +98,7 @@
         private System.Windows.Forms.TextBox aboutMe;
         private System.Windows.Forms.PictureBox selfPorterait;
         private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.TextBox classList;
     }
 }
 
