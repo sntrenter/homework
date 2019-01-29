@@ -30,12 +30,12 @@ namespace trenter_a1
 
         private void fallButton_Click(object sender, EventArgs e)
         {
-
+            fallButton.Text = "list of classes goes here \n is a newline \n \n \n test";
         }
 
         private void springButton_Click(object sender, EventArgs e)
         {
-
+            springButton.Text = "list of classes goes here \n is a newline \n \n \n test";
         }
     }
 }
