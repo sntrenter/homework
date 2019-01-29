@@ -27,5 +27,15 @@ namespace trenter_a1
         {
             System.Environment.Exit(1);
         }
+
+        private void fallButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void springButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
