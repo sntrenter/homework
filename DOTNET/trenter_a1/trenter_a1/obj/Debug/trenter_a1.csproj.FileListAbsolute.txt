@@ -1,10 +1,9 @@
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\bin\Debug\trenter_a1.exe.config
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\bin\Debug\trenter_a1.exe
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\bin\Debug\trenter_a1.pdb
-C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.csprojAssemblyReference.cache
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.Properties.Resources.resources
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.csproj.GenerateResource.cache
-C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.csproj.CoreCompileInputs.cache
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.exe
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.pdb
 C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.classes.resources
+C:\Users\MSUstudent\Desktop\github\homework\DOTNET\trenter_a1\trenter_a1\obj\Debug\trenter_a1.csprojResolveAssemblyReference.cache
