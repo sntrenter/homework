@@ -1,4 +1,4 @@
-package com.example.petadoptionappravithambusamy;
+package com.example.petadoptionappsamtrenter;
 
 import org.junit.Test;
 

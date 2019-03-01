@@ -1,4 +1,4 @@
-package com.example.petadoptionappravithambusamy;
+package com.example.petadoptionappsamtrenter;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.petadoptionappravithambusamy", appContext.getPackageName());
+        assertEquals("com.example.petadoptionappsamtrenter", appContext.getPackageName());
     }
 }
