@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Pet Adoption App Sam Trenter</string>
+    <string name="textViewSelectAPet">Select a Pet for Adoption:</string>
+
+    <string name="radioButtonFidoDog">Fido (dog)</string>
+
+    <string name="radioButtonFluffyCat">Fluffy (cat)</string>
+
+    <string name="textViewChooseOptions">Choose Options:</string>
+
+    <string name="checkBoxAdoptionFee">Adoption Fee</string>
+
+    <string name="checkBoxMicrochipFee">Microchip Fee</string>
+
+    <string name="checkBoxSpayingAndNeuteringFee">Spaying and Neutering Fee</string>
+
+    <string name="buttonAdoptAPet">Adopt A Pet</string>
+
+    <string name="textViewTotalFees">                    </string>
+    <string name="pictureDescription">either dog or a cat</string>
 </resources>
