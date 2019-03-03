@@ -31,7 +31,6 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:checkedButton="@+id/radioButtonFidoDog"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
@@ -64,11 +63,12 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+        android:adjustViewBounds="false"
         android:contentDescription="@string/pictureDescription"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/radioGroupPet"
-        app:srcCompat="@drawable/fido" />
+        app:layout_constraintTop_toBottomOf="@+id/radioGroupPet" />
 
     <TextView
         android:id="@+id/textViewChooseOptions"
@@ -81,6 +81,7 @@
         android:layout_marginRight="8dp"
         android:text="@string/textViewChooseOptions"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/colorBrown"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
@@ -146,6 +147,7 @@
         android:onClick="onButtonAdoptAPetClick"
         android:text="@string/buttonAdoptAPet"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/colorBrown"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
