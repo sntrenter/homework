@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currentcy Converty App Sam Trenter</string>
+    <string name="textViewEnterAmount">Enter Amount:</string>
+    <string name="imageViewConversion">currency conversion</string>
+    <string name="textViewChooseConversion">Choose Conversion:</string>
+    <string name="radioButtonUSDtoUKP">US Dollar to UK Pound </string>
+    <string name="radioButtonUKPtoUSD">UK Pound to US Dollar</string>
+    <string name="buttonConvertAmount">Convert Amount</string>
+
+</resources>
