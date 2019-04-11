@@ -19,7 +19,7 @@ namespace trenter_a1
 
         private void selfPorterait_Click(object sender, EventArgs e)
         {
-            var text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
+            var text = "My name is Sam Trenter and I am a senior computer science student at Missouri State. My home town is St. Louis Missouri. Right now I am slated to move to Japan next semester with my significat other to teach Japan. In my freetime I like to research digital modeling synthesis.";
             aboutMe.Text = text;
         }
 
@@ -30,14 +30,37 @@ namespace trenter_a1
 
         private void fallButton_Click(object sender, EventArgs e)
         {
-            //fallButton.Text = "list of classes goes here \n is a newline \n \n \n test";
-            classList.Text = "list of fall classes goes here \r\n is a newline \n \n \n test";
+            if (fallButton.Text == "Hide Fall Course")
+            {
+                classList.Text = "";
+                fallButton.Text = "Show Fall Course";
+            }
+            else
+            {
+                classList.Text = "\r\n\r\nCSC338 - Parallel and dist. computing " +
+                    "\r\n CSC388 - Intro to secure computing" +
+                    "\r\n CSC515 - Advanced Internet Programing";
+                fallButton.Text = "Hide Fall Course";
+                springButton.Text = "Show Spring Course";
+            }
         }
 
         private void springButton_Click(object sender, EventArgs e)
         {
-            //springButton.Text = "list of classes goes here \n is a newline \n \n \n test";
-            classList.Text = "list of spring classes goes here \r\n is a newline \n \n \n test";
+            
+            if (springButton.Text == "Hide Spring Course")
+            {
+                classList.Text = "";
+                springButton.Text = "Show Spring Course";
+            }
+            else
+            {
+                classList.Text = "\r\n\r\nENG210 - Intro to Short Story" +
+                    "\r\nCIS200 - Critical and Creative Thinking" +
+                    "\r\nMTH333 - Linear Algebra";
+                springButton.Text = "Hide Spring Course";
+                fallButton.Text = "Show Fall Course";
+            }
         }
     }
 }
