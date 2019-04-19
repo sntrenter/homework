@@ -119,7 +119,7 @@
             // calculatedBMI
             // 
             this.calculatedBMI.AutoSize = true;
-            this.calculatedBMI.Location = new System.Drawing.Point(203, 342);
+            this.calculatedBMI.Location = new System.Drawing.Point(82, 396);
             this.calculatedBMI.Name = "calculatedBMI";
             this.calculatedBMI.Size = new System.Drawing.Size(0, 17);
             this.calculatedBMI.TabIndex = 9;
@@ -128,7 +128,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(507, 409);
+            this.ClientSize = new System.Drawing.Size(469, 460);
             this.Controls.Add(this.calculatedBMI);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.inLabel);
