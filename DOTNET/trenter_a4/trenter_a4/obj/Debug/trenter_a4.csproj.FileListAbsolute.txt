@@ -1,0 +1,10 @@
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\bin\Debug\trenter_a4.exe.config
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\bin\Debug\trenter_a4.exe
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\bin\Debug\trenter_a4.pdb
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.csprojAssemblyReference.cache
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.Form1.resources
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.Properties.Resources.resources
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.csproj.GenerateResource.cache
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.csproj.CoreCompileInputs.cache
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.exe
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\trenter_a4\trenter_a4\obj\Debug\trenter_a4.pdb
