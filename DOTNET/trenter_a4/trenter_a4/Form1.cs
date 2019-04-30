@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//
+//I think i calculate the tip how you want me to. 
+//
 namespace trenter_a4
 {
     public partial class Form1 : Form
@@ -23,13 +25,19 @@ namespace trenter_a4
             {
                 tipListBox.Items.Add( i.ToString()+"%");
             }
-
+            tipListBox.SelectedIndex = 0;
             tipListBox.EndUpdate();
             
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            if(mealCostTB.Text == "" )
+            {
+                MessageBox.Show("PLEASE PROVIDE A VALID INPUT!");
+                mealCostTB.Select();
+                return;
+            }
             double mealCost;
             double.TryParse(mealCostTB.Text,out mealCost);
             double discountedMealCost = mealCost;
@@ -52,10 +60,7 @@ namespace trenter_a4
                 double finalMealCost = discountedMealCost + (tip * discountedMealCost);
                 MessageBox.Show(String.Format("Meal Cost: {0:C}", finalMealCost));
             }
-            //MessageBox.Show("Button clicked \n\r" +
-            //    mealCost + "\n\r" +
-            //     tipbox + "\r\n" +
-            //     "tip" + tip.ToString());
+
         }
 
         private void LessThan6_Click(object sender, EventArgs e)
@@ -67,7 +72,7 @@ namespace trenter_a4
             {
                 tipListBox.Items.Add(i.ToString() + "%");
             }
-
+            tipListBox.SelectedIndex = 0;
             tipListBox.EndUpdate();
         }
 
@@ -80,7 +85,7 @@ namespace trenter_a4
             {
                 tipListBox.Items.Add(i.ToString() + "%");
             }
-
+            tipListBox.SelectedIndex = 0;
             tipListBox.EndUpdate();
         }
     }
