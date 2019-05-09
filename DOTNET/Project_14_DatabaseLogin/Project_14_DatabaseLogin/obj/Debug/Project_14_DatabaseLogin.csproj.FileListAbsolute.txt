@@ -1,0 +1,11 @@
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\bin\Debug\Project_14_DatabaseLogin.exe.config
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\bin\Debug\Project_14_DatabaseLogin.exe
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\bin\Debug\Project_14_DatabaseLogin.pdb
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.csprojAssemblyReference.cache
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.Form1.resources
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.loggedIn.resources
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.Properties.Resources.resources
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.csproj.GenerateResource.cache
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.csproj.CoreCompileInputs.cache
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.exe
+C:\Users\sntrenter\Desktop\git\homework\DOTNET\Project_14_DatabaseLogin\Project_14_DatabaseLogin\obj\Debug\Project_14_DatabaseLogin.pdb
