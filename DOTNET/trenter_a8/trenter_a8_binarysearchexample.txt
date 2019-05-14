@@ -1,0 +1,18 @@
+Sam Trenter a8, understand binary search.
+
+use binary search to find an element with value 8 in the list.
+original list [ 3, 5, -1, 9, 6, 8, 4, 2, 13, 7, 5]
+first we sort the list [-1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 13]
+
+than we check the middle element of the array:
+[-1, 2, 3, 4, 5, (5), 6, 7, 8, 9, 13]
+since five is the middle most object in the list and it is lower than 8, we chop of itself and everything below it. We are left with this.
+
+[6, 7, 8, 9, 13]
+
+now we check the middle most element in the array to see if it is or is higher or lower than our number...
+
+[6, 7, (8), 9, 13]
+
+on this iteration we found the element we are looking for.
+
