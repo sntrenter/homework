@@ -21,7 +21,7 @@ namespace trenter_a7
         private void Button1_Click(object sender, EventArgs e)
         {
             int x = indexOf(numberList, 7);
-            MessageBox.Show("the index of 7 = " + x.ToString());
+            MessageBox.Show("the index of 7 = " + x.ToString()+"(including zero)");
         }
         int indexOf(List<int> numberList,int num)
         {
